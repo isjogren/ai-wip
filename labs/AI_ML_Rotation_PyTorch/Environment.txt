@@ -1,0 +1,5 @@
+Create environment for PyTorch
+
+conda env create -f pytorch_env
+
+conda activate pytorch_env
